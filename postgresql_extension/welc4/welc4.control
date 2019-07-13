@@ -1,0 +1,6 @@
+# isn extension
+comment = 'welcome 4'
+default_version = '1.0'
+module_pathname = '$libdir/welc4'
+relocatable = false
+schema = pg_catalog
