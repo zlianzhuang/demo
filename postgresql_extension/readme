@@ -1,8 +1,8 @@
 MODULES: welc1
-		psql: select welc1();
+	psql: select welc1();
 MODULE_big: welc2
-		psql: select welc2();
+	psql: select welc2();
 PROGRAM: welc3
-		binDir: ./welc3
+	binDir: ./welc3
 SCRIPTS: welc4
-		binDir: ./welc4
+	binDir: ./welc4
